@@ -1,5 +1,5 @@
 ## 자세한 내용은 Notion에서 확인할 수 있습니다.
-**[프로젝트 문서 보러가기](https://tiny-mackerel-99c.notion.site/19f8c03f6170803cb457c8054e9dc70f)
+**[프로젝트 문서 보러가기](https://tiny-mackerel-99c.notion.site/19f8c03f6170803cb457c8054e9dc70f)**
 # Setup
 
 ### Install the Qiime2 enviroment
